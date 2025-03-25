@@ -5,14 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer+(manual))](https://git.io/typing-svg)
 
 ## About me :sunglasses:
-Я тестировщик с душой рыболова!
+Я тестировщик с душой рыболова !
 - В тестировании с 2022 года;
 - Рыбалка с лодки - мое увлечение,
   которое помогает отвлечься от суеты и насладится моментом.
 
-### Мое кредо: Тестировщик - это детектив цифрового мира.
+## Мое кредо: Тестировщик - это детектив цифрового мира.
 
 ## Tools
+
 ![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
